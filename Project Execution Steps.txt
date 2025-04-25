@@ -1,0 +1,13 @@
+Step 1 install python 
+https://www.python.org/ftp/python/3.11.0/python-3.11.0-amd64.exe
+
+Step 2 install required packages 
+pip install -r requirements.txt
+
+
+Step 3 Run app
+streamlit run app.py
+
+Step 4 View it to your mobile
+copy network address
+paste it to your mobile browser 
